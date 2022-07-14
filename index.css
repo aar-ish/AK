@@ -17,6 +17,10 @@ body {
     margin: 0;
     font-family: "Kumbh", sans-serif;
 }
+
+section, svg{
+    max-width: 390px;
+}
 .card-section{
     background-color: #bfe9fa;
     justify-content: center;
